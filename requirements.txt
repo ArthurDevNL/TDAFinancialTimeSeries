@@ -1,0 +1,13 @@
+boost
+numpy
+pandas
+seaborn
+matplotlib
+cython
+ipykernel
+gudhi==2.0.1
+dionysus
+sklearn
+statsmodels
+scipy
+seaborn
